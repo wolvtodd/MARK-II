@@ -12,6 +12,7 @@ and finally wrapped it as a complete game at the end of 2012.
 All programming, graphics( including 3D models, textures, animations, UI elements... ), music are made by myself.
 
 You can view a portfolio I made before, with the PC-version released game download link.
+https://www.behance.net/gallery/Firmware-update/14468271
 
 ---
 I actually want this game to go further, so I am currently thinking about some more interesting game ideas.
