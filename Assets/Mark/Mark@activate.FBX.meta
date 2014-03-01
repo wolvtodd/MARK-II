@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: e5825c47446533c43818841ce2d1560d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: MarkBone-Thigh
+    100002: Bip001 HeadNub
+    100004: MarkBone-Calf
+    100006: MarkBone-Neck
+    100008: //RootNode
+    100010: Bip001 R Toe0Nub
+    100012: MarkBone- R Toe0
+    100014: MarkBone- R Foot
+    100016: MarkBone- R Calf
+    100018: MarkBone- R Thigh
+    100020: Bip001 L Toe0Nub
+    100022: MarkBone- L Toe0
+    100024: MarkBone- L Foot
+    100026: Bip001 R Finger0Nub
+    100028: MarkBone- R Finger0
+    100030: MarkBone- Hand 1
+    100032: MarkBone-Forearm
+    100034: MarkBone-UpperArm 1
+    100036: MarkBone-Clavicle 1
+    100038: Bip001 L Finger0Nub
+    100040: MarkBone-Finger0
+    100042: MarkBone- Forearm
+    100044: MarkBone-UpperArm
+    100046: MarkBone-Clavicle
+    100048: MarkBone- Hand
+    100050: MarkBone-Spine1
+    100052: MarkBone-Spine
+    100054: MarkBone-Pelvis
+    100056: Bip001
+    100058: MarkBone-head
+    400000: MarkBone-Thigh
+    400002: Bip001 HeadNub
+    400004: MarkBone-Calf
+    400006: MarkBone-Neck
+    400008: //RootNode
+    400010: Bip001 R Toe0Nub
+    400012: MarkBone- R Toe0
+    400014: MarkBone- R Foot
+    400016: MarkBone- R Calf
+    400018: MarkBone- R Thigh
+    400020: Bip001 L Toe0Nub
+    400022: MarkBone- L Toe0
+    400024: MarkBone- L Foot
+    400026: Bip001 R Finger0Nub
+    400028: MarkBone- R Finger0
+    400030: MarkBone- Hand 1
+    400032: MarkBone-Forearm
+    400034: MarkBone-UpperArm 1
+    400036: MarkBone-Clavicle 1
+    400038: Bip001 L Finger0Nub
+    400040: MarkBone-Finger0
+    400042: MarkBone- Forearm
+    400044: MarkBone-UpperArm
+    400046: MarkBone-Clavicle
+    400048: MarkBone- Hand
+    400050: MarkBone-Spine1
+    400052: MarkBone-Spine
+    400054: MarkBone-Pelvis
+    400056: Bip001
+    400058: MarkBone-head
+    7400002: Take 001
+    7400006: function
+    7400008: activate
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: activate
+      takeName: 
+      firstFrame: 10
+      lastFrame: 50
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

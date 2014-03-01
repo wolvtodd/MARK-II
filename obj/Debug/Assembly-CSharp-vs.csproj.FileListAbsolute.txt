@@ -1,0 +1,10 @@
+D:\_WORKSPACE\working\2012_Mark-2 Project\Delta_Mark-2_Project\Temp\bin\Debug\Assembly-CSharp.dll
+D:\_WORKSPACE\working\2012_Mark-2 Project\Delta_Mark-2_Project\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\_WORKSPACE\working\2012_Mark-2 Project\Delta_Mark-2_Project\Temp\bin\Debug\UnityEditor.dll
+D:\_WORKSPACE\working\2012_Mark-2 Project\Delta_Mark-2_Project\Temp\bin\Debug\UnityEngine.dll
+D:\_WORKSPACE\working\2012_Mark-2 Project\Delta_Mark-2_Project\Temp\bin\Debug\nunit.framework.dll
+D:\_WORKSPACE\working\2012_Mark-2 Project\Delta_Mark-2_Project\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\_WORKSPACE\working\2012_Mark-2 Project\Delta_Mark-2_Project\obj\Debug\Assembly-CSharp.dll
+D:\_WORKSPACE\working\2012_Mark-2 Project\Delta_Mark-2_Project\obj\Debug\Assembly-CSharp.pdb
+D:\_WORKSPACE\working\2012_Mark-2 Project\Delta_Mark-2_Project\Temp\bin\Debug\Mono.Cecil.dll
+D:\_WORKSPACE\working\2012_Mark-2 Project\Delta_Mark-2_Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll

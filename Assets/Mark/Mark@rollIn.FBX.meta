@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 50391addb59aef749bd964a2e86197a8
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: MarkBone- Hand
+    100002: Bip001 R Toe0Nub
+    100004: MarkBone- R Toe0
+    100006: MarkBone- R Foot
+    100008: MarkBone- R Calf
+    100010: MarkBone- R Thigh
+    100012: Bip001 L Toe0Nub
+    100014: //RootNode
+    100016: MarkBone- L Toe0
+    100018: MarkBone- L Foot
+    100020: Bip001 R Finger0Nub
+    100022: MarkBone-Spine1
+    100024: MarkBone-Spine
+    100026: MarkBone-Thigh
+    100028: MarkBone-Calf
+    100030: Bip001
+    100032: MarkBone- R Finger0
+    100034: MarkBone- Hand 1
+    100036: MarkBone-Forearm
+    100038: MarkBone-UpperArm 1
+    100040: MarkBone-Clavicle 1
+    100042: Bip001 L Finger0Nub
+    100044: MarkBone-Finger0
+    100046: MarkBone- Forearm
+    100048: Bip001 HeadNub
+    100050: MarkBone-head
+    100052: MarkBone-Pelvis
+    100054: MarkBone-UpperArm
+    100056: MarkBone-Clavicle
+    100058: MarkBone-Neck
+    400000: MarkBone- Hand
+    400002: Bip001 R Toe0Nub
+    400004: MarkBone- R Toe0
+    400006: MarkBone- R Foot
+    400008: MarkBone- R Calf
+    400010: MarkBone- R Thigh
+    400012: Bip001 L Toe0Nub
+    400014: //RootNode
+    400016: MarkBone- L Toe0
+    400018: MarkBone- L Foot
+    400020: Bip001 R Finger0Nub
+    400022: MarkBone-Spine1
+    400024: MarkBone-Spine
+    400026: MarkBone-Thigh
+    400028: MarkBone-Calf
+    400030: Bip001
+    400032: MarkBone- R Finger0
+    400034: MarkBone- Hand 1
+    400036: MarkBone-Forearm
+    400038: MarkBone-UpperArm 1
+    400040: MarkBone-Clavicle 1
+    400042: Bip001 L Finger0Nub
+    400044: MarkBone-Finger0
+    400046: MarkBone- Forearm
+    400048: Bip001 HeadNub
+    400050: MarkBone-head
+    400052: MarkBone-Pelvis
+    400054: MarkBone-UpperArm
+    400056: MarkBone-Clavicle
+    400058: MarkBone-Neck
+    7400000: Take 001
+    7400002: rollIn
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: rollIn
+      takeName: 
+      firstFrame: 20
+      lastFrame: 200
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

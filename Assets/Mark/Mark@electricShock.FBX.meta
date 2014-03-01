@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 3437d2518278d294587861885436b343
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: MarkBone-Calf
+    100002: MarkBone-Thigh
+    100004: Bip001 L Toe0Nub
+    100006: MarkBone- L Toe0
+    100008: MarkBone- L Foot
+    100010: Bip001 R Finger0Nub
+    100012: MarkBone- R Finger0
+    100014: MarkBone- Hand 1
+    100016: MarkBone-Forearm
+    100018: MarkBone-UpperArm 1
+    100020: MarkBone-Clavicle 1
+    100022: Bip001 L Finger0Nub
+    100024: MarkBone-Finger0
+    100026: MarkBone- Forearm
+    100028: MarkBone-UpperArm
+    100030: MarkBone-Clavicle
+    100032: MarkBone- Hand
+    100034: MarkBone-Neck
+    100036: MarkBone-Spine1
+    100038: MarkBone-Spine
+    100040: MarkBone-Pelvis
+    100042: Bip001
+    100044: //RootNode
+    100046: Bip001 R Toe0Nub
+    100048: MarkBone- R Toe0
+    100050: MarkBone- R Foot
+    100052: MarkBone- R Calf
+    100054: MarkBone- R Thigh
+    100056: Bip001 HeadNub
+    100058: MarkBone-head
+    400000: MarkBone-Calf
+    400002: MarkBone-Thigh
+    400004: Bip001 L Toe0Nub
+    400006: MarkBone- L Toe0
+    400008: MarkBone- L Foot
+    400010: Bip001 R Finger0Nub
+    400012: MarkBone- R Finger0
+    400014: MarkBone- Hand 1
+    400016: MarkBone-Forearm
+    400018: MarkBone-UpperArm 1
+    400020: MarkBone-Clavicle 1
+    400022: Bip001 L Finger0Nub
+    400024: MarkBone-Finger0
+    400026: MarkBone- Forearm
+    400028: MarkBone-UpperArm
+    400030: MarkBone-Clavicle
+    400032: MarkBone- Hand
+    400034: MarkBone-Neck
+    400036: MarkBone-Spine1
+    400038: MarkBone-Spine
+    400040: MarkBone-Pelvis
+    400042: Bip001
+    400044: //RootNode
+    400046: Bip001 R Toe0Nub
+    400048: MarkBone- R Toe0
+    400050: MarkBone- R Foot
+    400052: MarkBone- R Calf
+    400054: MarkBone- R Thigh
+    400056: Bip001 HeadNub
+    400058: MarkBone-head
+    7400000: Take 001
+    7400002: electricShock
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: electricShock
+      takeName: 
+      firstFrame: 11
+      lastFrame: 35
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

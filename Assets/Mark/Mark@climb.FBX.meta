@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 9556441d770c21e4db2074a1e3ef0ba0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: MarkBone-Thigh
+    100002: Bip001 HeadNub
+    100004: MarkBone-head
+    100006: MarkBone-Calf
+    100008: //RootNode
+    100010: MarkBone- Hand
+    100012: MarkBone-Neck
+    100014: MarkBone-Spine1
+    100016: MarkBone-Spine
+    100018: MarkBone-Pelvis
+    100020: Bip001
+    100022: Bip001 R Toe0Nub
+    100024: MarkBone- R Toe0
+    100026: MarkBone- R Foot
+    100028: MarkBone- R Calf
+    100030: MarkBone- R Thigh
+    100032: Bip001 L Toe0Nub
+    100034: MarkBone- L Toe0
+    100036: MarkBone- L Foot
+    100038: Bip001 R Finger0Nub
+    100040: MarkBone- R Finger0
+    100042: MarkBone- Hand 1
+    100044: MarkBone-Forearm
+    100046: MarkBone-UpperArm 1
+    100048: MarkBone-Clavicle 1
+    100050: Bip001 L Finger0Nub
+    100052: MarkBone-Finger0
+    100054: MarkBone- Forearm
+    100056: MarkBone-UpperArm
+    100058: MarkBone-Clavicle
+    400000: MarkBone-Thigh
+    400002: Bip001 HeadNub
+    400004: MarkBone-head
+    400006: MarkBone-Calf
+    400008: //RootNode
+    400010: MarkBone- Hand
+    400012: MarkBone-Neck
+    400014: MarkBone-Spine1
+    400016: MarkBone-Spine
+    400018: MarkBone-Pelvis
+    400020: Bip001
+    400022: Bip001 R Toe0Nub
+    400024: MarkBone- R Toe0
+    400026: MarkBone- R Foot
+    400028: MarkBone- R Calf
+    400030: MarkBone- R Thigh
+    400032: Bip001 L Toe0Nub
+    400034: MarkBone- L Toe0
+    400036: MarkBone- L Foot
+    400038: Bip001 R Finger0Nub
+    400040: MarkBone- R Finger0
+    400042: MarkBone- Hand 1
+    400044: MarkBone-Forearm
+    400046: MarkBone-UpperArm 1
+    400048: MarkBone-Clavicle 1
+    400050: Bip001 L Finger0Nub
+    400052: MarkBone-Finger0
+    400054: MarkBone- Forearm
+    400056: MarkBone-UpperArm
+    400058: MarkBone-Clavicle
+    7400000: Take 001
+    7400002: hanging
+    7400004: climbOn
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: hanging
+      takeName: 
+      firstFrame: 30
+      lastFrame: 45
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: climbOn
+      takeName: 
+      firstFrame: 45
+      lastFrame: 73
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

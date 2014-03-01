@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{B0C058B7-BDB0-951A-6371-20F04B2F1FA6}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_WEBPLAYER;WEBPLUG;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_GENERICS;ENABLE_SUBSTANCE;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;UNITY_4_3_4;UNITY_4_3;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>D:/Program Files (x86)/Unity4.0.0f5/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>D:/Program Files (x86)/Unity4.0.0f5/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\ActionHintPlane.cs" />
+     <Compile Include="Assets\Scripts\ElectricAnimator.cs" />
+     <Compile Include="Assets\Scripts\FPSChecker.cs" />
+     <Compile Include="Assets\Scripts\M_Camera\M_GUICamera.cs" />
+     <Compile Include="Assets\Scripts\M_Camera\M_MainCamera.cs" />
+     <Compile Include="Assets\Scripts\M_Camera\M_SubCamera.cs" />
+     <Compile Include="Assets\Scripts\M_Doors\M_ExitMain.cs" />
+     <Compile Include="Assets\Scripts\M_Doors\M_InDoorMain.cs" />
+     <Compile Include="Assets\Scripts\M_GUIController\M_FunctionController.cs" />
+     <Compile Include="Assets\Scripts\M_GUIController\M_GUIButton.cs" />
+     <Compile Include="Assets\Scripts\M_GUIController\M_GUIButton_Mark2Action.cs" />
+     <Compile Include="Assets\Scripts\M_GUIController\M_GUIButton_MarkAction.cs" />
+     <Compile Include="Assets\Scripts\M_GUIController\M_GUIController.cs" />
+     <Compile Include="Assets\Scripts\M_GUIController\M_GUIKeyMotor.cs" />
+     <Compile Include="Assets\Scripts\M_GUIController\M_GUIPlayerSwitchPad.cs" />
+     <Compile Include="Assets\Scripts\M_Global\Const.cs" />
+     <Compile Include="Assets\Scripts\M_Global\M_BGMPlayer.cs" />
+     <Compile Include="Assets\Scripts\M_Global\M_GameClear.cs" />
+     <Compile Include="Assets\Scripts\M_Global\M_GameMain.cs" />
+     <Compile Include="Assets\Scripts\M_Global\M_GlobalSetting.cs" />
+     <Compile Include="Assets\Scripts\M_Global\M_ParticleSystem.cs" />
+     <Compile Include="Assets\Scripts\M_Global\M_PauseController.cs" />
+     <Compile Include="Assets\Scripts\M_Global\M_TutorialController.cs" />
+     <Compile Include="Assets\Scripts\M_Global\MultiLanguageSelector.cs" />
+     <Compile Include="Assets\Scripts\M_Items\M_ItemKey.cs" />
+     <Compile Include="Assets\Scripts\M_JumpPadSystem\M_JumpPad.cs" />
+     <Compile Include="Assets\Scripts\M_JumpPadSystem\M_JumpPadMain.cs" />
+     <Compile Include="Assets\Scripts\M_JumpPadSystem\M_Switch.cs" />
+     <Compile Include="Assets\Scripts\M_MainMenu\M_AboutProducerController.cs" />
+     <Compile Include="Assets\Scripts\M_MainMenu\M_AssembleTitleController.cs" />
+     <Compile Include="Assets\Scripts\M_MainMenu\M_LanguageSelector.cs" />
+     <Compile Include="Assets\Scripts\M_MainMenu\M_MainMenuCamera.cs" />
+     <Compile Include="Assets\Scripts\M_MainMenu\M_MainMenuController.cs" />
+     <Compile Include="Assets\Scripts\M_MainMenu\M_MenuSelection.cs" />
+     <Compile Include="Assets\Scripts\M_MainMenu\M_StageSelectController.cs" />
+     <Compile Include="Assets\Scripts\M_MouseController\M_ArrowToPlaceSystem\M_ArrowToPlace.cs" />
+     <Compile Include="Assets\Scripts\M_MouseController\M_ArrowToPlaceSystem\M_Mark2ArrowToPlace.cs" />
+     <Compile Include="Assets\Scripts\M_MouseController\M_ArrowToPlaceSystem\M_MarkArrowToPlace.cs" />
+     <Compile Include="Assets\Scripts\M_MouseController\M_JumpVectorArrowController.cs" />
+     <Compile Include="Assets\Scripts\M_MouseController\M_MousePlayerController.cs" />
+     <Compile Include="Assets\Scripts\M_Particle\M_MarkDeadSmoke.cs" />
+     <Compile Include="Assets\Scripts\M_Particle\M_SingleShotParticle.cs" />
+     <Compile Include="Assets\Scripts\M_Particle\M_SmokeOnMarkII.cs" />
+     <Compile Include="Assets\Scripts\M_Tutorial\M_Tutorial_1.cs" />
+     <Compile Include="Assets\Scripts\M_Volumes\M_ActivateClimbPointSenser.cs" />
+     <Compile Include="Assets\Scripts\M_Volumes\M_ClimPointSenser.cs" />
+     <Compile Include="Assets\Scripts\M_Volumes\M_Destructable_Wall.cs" />
+     <Compile Include="Assets\Scripts\M_Volumes\M_JumpPadControllerVolume.cs" />
+     <Compile Include="Assets\Scripts\M_Volumes\M_JumpPadVolume.cs" />
+     <Compile Include="Assets\Scripts\M_Volumes\M_PlayerClimbSenser_Mark.cs" />
+     <Compile Include="Assets\Scripts\M_Volumes\M_SpineVolume.cs" />
+     <Compile Include="Assets\Scripts\PlayerController\M_Mark2Controller\M_Animator_Mark2.cs" />
+     <Compile Include="Assets\Scripts\PlayerController\M_Mark2Controller\M_Controller_Mark2.cs" />
+     <Compile Include="Assets\Scripts\PlayerController\M_Mark2Controller\M_Motor_Mark2.cs" />
+     <Compile Include="Assets\Scripts\PlayerController\M_MarkController\M_Animator_Mark.cs" />
+     <Compile Include="Assets\Scripts\PlayerController\M_MarkController\M_Controller_Mark.cs" />
+     <Compile Include="Assets\Scripts\PlayerController\M_MarkController\M_Motor_Mark.cs" />
+     <Compile Include="Assets\Scripts\PlayerController\M_PlayerControllerSupport.cs" />
+     <Compile Include="Assets\Scripts\PlayerController\M_ShadowProcessor.cs" />
+     <Compile Include="Assets\Scripts\RestartButton.cs" />
+     <Compile Include="Assets\Scripts\Tests\M_LevelTrigger.cs" />
+     <Compile Include="Assets\Scripts\Tests\TriggerTest.cs" />
+     <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
+     <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-ShadowedBasic.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
+     <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Lighted.shader" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
